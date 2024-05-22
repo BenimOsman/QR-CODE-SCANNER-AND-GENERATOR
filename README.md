@@ -1,2 +1,3 @@
 # QR-CODE-SCANNER-AND-GENERATOR
-Consisting of QR Scanner &amp; Generator App
+
+This repo consists of QR Scanner &amp; Generator Application using HTML, CSS &amp; JavaScript.
