@@ -1,0 +1,47 @@
+.generator {
+    display: none;
+}
+
+.generator.active {
+    display: block;
+}
+
+.generator-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.generator-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.generator-form button:hover {
+    background-color: #2980b9;
+}
+
+.generator-img img {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    display: block;
+}
+
+.generator-btn .btn-link {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #2ecc71;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+
+.generator-btn .btn-link:hover {
+    background-color: #27ae60;
+}
